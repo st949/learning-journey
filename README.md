@@ -1,16 +1,13 @@
-# Learning Journey
+## Technologies I Am Learning
 
-Welcome to my learning journey! This repository documents my progress as I continue developing my skills in data analytics and data engineering.
+- Python
+- SQL
+- Azure Data Factory
+- Azure Databricks
+- PySpark
+- Power BI
+- Git & GitHub
 
-## About Me
+## Current Focus
 
-I am a Data Analyst and Data Engineer with experience working with Python, SQL, Power BI, ETL/ELT pipelines, and cloud-based data technologies.
-
-## Learning Goals
-
-- Strengthen my Python and SQL skills
-- Build scalable ETL/ELT data pipelines
-- Gain more hands-on experience with Azure Data Factory
-- Develop data processing solutions using Databricks and PySpark
-- Improve my knowledge of data quality and data governance
-- Build end-to-end data engineering projects
+My current focus is strengthening my data engineering skills by building practical projects involving data ingestion, transformation, data quality, cloud platforms, and analytics.
